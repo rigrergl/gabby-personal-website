@@ -31,4 +31,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+## Business Events
+  - Gabby wants to add a new painting
+      - A painting has an Image, a title, and a description
+  - Gabby wants to add a new collection
+      - A collection has an image
+  - Gabby wants to remove a painting
+  - Gabby wants to remove a collection
+  - Art Curator wants to look at Gabby's paintings
+  - Art Curator wants to look at Gabby's general resume
+  - Visitor wants to Like a painting
+  - Visitor wants to Share a painting
+
+## Pages
+  - Gallery
+      - Grid view of all paintins
+      - Hovering over a painting should bring up its name, the like button, and the share button
+
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
